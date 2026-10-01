@@ -131,10 +131,10 @@ php artisan test
 ```
 
 ## Web demo
-![log in page](image.png)
-![workouts](image-2.png)
-![exercises](image-1.png)
-![progress](image-3.png)
+![log in page](screenshots/image.png)
+![workouts](screenshots/image-2.png)
+![exercises](screenshots/image-1.png)
+![progress](screenshots/image-3.png)
 
 
 ## About
